@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://widifirmaan.github.io/VOffice-Clone-Website/](https://widifirmaan.github.io/VOffice-Clone-Website/)
+[https://widifirmaan.github.io/VOffice-Clone-Website/ (some resource broken due old project)](https://widifirmaan.github.io/VOffice-Clone-Website/)
 
 <h2>Project Screenshots:</h2>
 
